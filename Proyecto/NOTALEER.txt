@@ -1,0 +1,6 @@
+Este es la demostración visual y la idea de como es el juego
+***Falta que se ponga el efecto de gravedad para que caiga el  personaje y que se pueda poner sobre
+las barras de madera que están en el mapa.
+**** Falta hacer que el avión enemigo (provisional) se mueva por el mapa como un bot.
+**Falta menú .
+se complicó a la hora de realizar esas acciones
