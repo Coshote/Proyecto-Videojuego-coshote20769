@@ -1,0 +1,4 @@
+COSAS QUE FALTARON:
+**Faltó agregar mas escenarios aunque solo sería de copiar codigo y camibar posiciones de 
+fichas y bloques.
+**Flató agregar musica.
